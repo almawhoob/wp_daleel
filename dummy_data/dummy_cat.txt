@@ -1,0 +1,38 @@
+
+* Categories
+Restaurant
+Cafe
+Store
+Hotel
+Mosque
+Islamic Center
+
+Beauty
+Books
+Dance
+Dinner
+Leisure
+Music
+Sports
+Transport
+
+
+* Listing Amenities
+24 hours
+Air Condition
+ATM Machine
+Banking
+Booking
+Breakfast
+Computer
+Delivery
+Elevator
+Escalator
+Parking
+Pool
+Take out
+Transit
+TV set
+Wifi
+
+* Listing Keywords

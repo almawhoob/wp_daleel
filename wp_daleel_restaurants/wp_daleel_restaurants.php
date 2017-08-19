@@ -13,12 +13,5 @@
 // INCLUDES
 include_once('includes/wp_daleel_custom_post.php');
 include_once('includes/wp_daleel_taxonomies.php');
-
-// RESTAURANTS
-include_once('includes/wp_restaurants_custom_post.php');
-include_once('includes/wp_restaurants_taxonomies.php');
-
-// SECTION 2
-
-// SECTION 3
-
+include_once('wp_daleel_restaurants/wp_daleel_restaurants_custom_post.php');
+include_once('wp_daleel_restaurants/wp_daleel_restaurants_taxonomies.php');
