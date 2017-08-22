@@ -17,6 +17,7 @@ include_once('includes/wp_daleel_taxonomies.php');
 // RESTAURANTS
 include_once('includes/wp_restaurants_custom_post.php');
 include_once('includes/wp_restaurants_taxonomies.php');
+include_once('includes/wp_restaurants_metaboxes.php');
 
 // SECTION 2
 
