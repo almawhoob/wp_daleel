@@ -4,7 +4,7 @@
  * Plugin URI: http://almawhoob.net
  * Author: Ahmed Al Abdulmohsen
  * Author URI: http://almawhoob.net
- * Version: 0.0.1
+ * Version: 0.1.0
  * Description: Daleel is a directory plugin for WordPress.
 */
 
