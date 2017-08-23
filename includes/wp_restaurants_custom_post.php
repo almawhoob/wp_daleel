@@ -45,7 +45,7 @@ add_action( 'init', 'wp_daleel_restaurants_custom_post');
 * Default is to show media ID, but then you have to do another http request to get the image for an app. This allows you to just use the url.
 * Sample usage would be post.featured_image_urls.thumbnail
 */
-add_action( 'rest_api_init', 'appp_add_featured_urls' );
+add_action( 'rest_api_init', 'wp_daleel_add_featured_urls' );
 function wp_daleel_add_featured_urls() {
 	register_rest_field( array( 'post', 'restaurant' ),
 	    'featured_image_urls',

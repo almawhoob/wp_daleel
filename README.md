@@ -1,6 +1,7 @@
 # wp_daleel
 
 0.1.0 :
+Activated restaurants-api using 'WP REST API' plugin
 Created wp_daleel_featured_images function to retrieve post images
 
 0.0.1 :
